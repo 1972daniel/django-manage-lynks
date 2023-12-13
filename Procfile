@@ -1,0 +1,1 @@
+web: gunicorn lynko.wsgi --log-file -
